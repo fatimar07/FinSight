@@ -1,2 +1,2 @@
-#Finance Insight App (In-progress)
+**Finance Insight App (In-progress)**
 
